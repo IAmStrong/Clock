@@ -1,6 +1,6 @@
 # Clock
 
-This is my student work at SoftServe, a canvas-based application that shows the current time and date in the following formats:
-- hh:mm
-- hh:mm:ss (left-click to show)
-- mm:dd:yy (right-click to show)
+This is my student work, a canvas-based application that shows the current time and date in the following formats:
+- <strong>hh:mm</strong>
+- <strong>hh:mm:ss</strong> (left-click to show)
+- <strong>mm:dd:yy</strong> (right-click to show)
